@@ -6,11 +6,11 @@ body{
   padding: 15px 95px 15px 15px;
   background-image: url(../images/hatterkocka.png);
   color: #443502;
-  
 }
 
 #cimkep{
   float:left;  
+  height: 150px;
 }
 
 h1{
