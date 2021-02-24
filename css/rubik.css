@@ -6,6 +6,7 @@ body{
   padding: 15px 95px 15px 15px;
   background-image: url(../images/hatterkocka.png);
   color: #443502;
+  
 }
 
 #cimkep{
@@ -18,6 +19,7 @@ h1{
 
 p{
   text-align: justify;
+  margin: 5px;
 }
 
 
